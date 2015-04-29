@@ -1,0 +1,5 @@
+BATTLE_START="battle_start"
+BATTLE_END="battle_end"
+ROUND_START="round_start"
+ROUND_END="round_end"
+ATTCK_START="attack_start"

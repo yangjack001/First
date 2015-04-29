@@ -1,0 +1,4 @@
+BattleScriptType = {}
+BattleScriptType.INIT_DEFAULT_PLAYER = "INIT_DEFAULT_PLAYER"
+BattleScriptType.MOVE_PLAYER = "MOVE_PLAYER"
+BattleScriptType.SHOW_NPC_PANEL = "SHOW_NPC_PANEL"
